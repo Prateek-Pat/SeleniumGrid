@@ -1,0 +1,7 @@
+
+
+Selenium Grid Executions steps
+++++++++++++++++++++++++++++++++
+
+Step 1) Start Selenium Grid using below command 
+CD C:\Selenium Serer\ java -jar selenium-standalone-3.141 -port -role hub
